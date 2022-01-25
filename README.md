@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+<h2>I'm Ali Alroainy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Developer and uiux desinger <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :art:
+</em></p>
 
 <!--
 **AliAlroainy/AliAlroainy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
