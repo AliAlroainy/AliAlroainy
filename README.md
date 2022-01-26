@@ -1,6 +1,6 @@
 ### Hi there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<h2>I'm Ali Alroainy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2>I'm Ali Alroainy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">  </h2>
  <p> <em>simple things can make big different 
 </em></p>
 
