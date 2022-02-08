@@ -25,8 +25,7 @@
 
 
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/AliAlroainy/github-readme-activity-graph"><img alt="AliAlroainy's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=AliAlroainy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 **Languages and Tools:**  
 
