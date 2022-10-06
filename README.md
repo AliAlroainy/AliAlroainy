@@ -5,10 +5,10 @@
 </em></p>
 
 
--   :computer: I am working as **Front-end developer and UX Designer** 
--   :monocle_face: Interested in everything **Cloud Native** 
+-   :computer: I am working as **UX Designer and Front-end developer ** 
+-   :monocle_face: Interested in everything **new and inspirational** 
 -   :seedling: Currently learning **web3** 
--   :heart: Open Source Software  
+-   :heart: Open Source design and Software  
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.  
 
 <img src="https://github.com/AliAlroainy/AliAlroainy/blob/main/dark%20cup.png" alt="dark style.." style="text-align: center; margin-bottom: 30px;" />
