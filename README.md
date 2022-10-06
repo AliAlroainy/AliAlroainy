@@ -5,8 +5,8 @@
 </em></p>
 
 
--   :computer: I am working as **UX Designer and Front-end developer ** 
--   :monocle_face: Interested in everything **new and inspirational** 
+-   :computer: I am working as **UX Designer and Front-end developer** 
+-   :monocle_face: Interested in everything **New and Inspirational** 
 -   :seedling: Currently learning **web3** 
 -   :heart: Open Source design and Software  
 -   :penguin: **Linux** ... it does infinite loops in 5 seconds.  
