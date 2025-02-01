@@ -5,7 +5,7 @@
 </em></p>
 
 
--   :computer: I am working as **UX Designer and Front-end developer** 
+-   :computer: I am working as **UX Engineer** 
 -   :monocle_face: Interested in everything **New and Inspirational** 
 -   :seedling: Currently learning **web3** 
 -   :heart: Open Source design and Software  
